@@ -168,7 +168,7 @@ l_french:
  LEDGER_RELATIONS: "Relazioni"
  LEDGER_MILITARY: "Militare"
  LEDGER_PAGE: "Pagina"
- LEDGER_SORT_DELAYED: "Sort this column"
+ LEDGER_SORT_DELAYED: "Ordina questa colonna"
  LEDGER_BUILDING_NEXT: "Prossima Costruzione"
  LEDGER_BUILDING_CAN_BUILD_NEXT: "Può costruire la prossima"
  LEDGER_TRADE_GOODS_SUPPLY_DESC: "Offerta di §Y'$TYPE$'§! è fornita da §Y$NUM$§! province."
